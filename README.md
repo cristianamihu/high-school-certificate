@@ -1,2 +1,2 @@
 # high-school-certificate
-My professional certificate in informatics from high school
+Atractii turistice in Londra - my professional certificate in informatics from high school
