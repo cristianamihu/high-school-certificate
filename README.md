@@ -9,7 +9,8 @@
 ![WhatsApp Image 2024-03-22 at 15 36 51 (2)](https://github.com/cristianamihu/high-school-certificate/assets/128689630/6689d36f-cfbc-40a0-8ee2-86c629a02289)
 #
 
-   I also used this CSS code:![WhatsApp Image 2024-03-22 at 18 22 04](https://github.com/cristianamihu/high-school-certificate/assets/128689630/ca94017e-99d2-4971-b403-c8263c68dc20)
+   I also used this CSS code:
+   ![WhatsApp Image 2024-03-22 at 18 22 04](https://github.com/cristianamihu/high-school-certificate/assets/128689630/ca94017e-99d2-4971-b403-c8263c68dc20)
 that defines a style for the link type elements (anchor) when they are in a hover state and thus highlight that you can click on them to access the other pages of the site or to return to the beginning of the page, as I have shown below.
 
 ![WhatsApp Image 2024-03-22 at 15 36 51](https://github.com/cristianamihu/high-school-certificate/assets/128689630/fd115d06-de53-4b05-bc81-8d725ffaf4c8)
